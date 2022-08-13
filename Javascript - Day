@@ -1,0 +1,17 @@
+Document Object :
+When we push html Document into browser , then the browser Take it as Document Object.
+⦁	  The document object is the root node of the HTML document.
+⦁	 The document object is know as property of  window object.
+⦁	   The document object is Executed as :
+                     window. document or we can use just document
+
+
+Window object :
+when a HTML document contains iframe tag ( link another document), the browser creates window object for the  document.
+⦁	 The window object is know as parent object of all property and method
+⦁	  The window object provides property, method or finction like :
+                        DOM -- document object model
+                         BOM -- Browser object model ... (ext)
+⦁	    The window object is access with :
+                         console.log(window) or only with window
+                                 
